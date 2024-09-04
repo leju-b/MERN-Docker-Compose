@@ -1,6 +1,6 @@
 # Simple MERN App Dockerization
 
-Welcome to my Simple MERN App Dockerization project! This project is a personal endeavor to learn and practice Dockerization using Docker Compose. I downloaded the source code for this app from [Abhisek Veeramalla's GitHub](https://github.com/abhisekv), who has provided excellent resources to the DevOps community.
+Welcome to my Simple MERN App Dockerization project! This project is a personal endeavor to learn and practice Dockerization using Docker Compose. I downloaded the source code for this app from [Abhishek Veeramalla's GitHub](https://github.com/iam-veeramalla), who has provided excellent resources to the DevOps community.
 
 ## Project Overview
 
@@ -37,14 +37,10 @@ To get the application up and running with Docker Compose, follow these steps:
 
 ### Thanks to Abhisek Veeramalla
 
-I want to extend a heartfelt thank you to [Abhisek Veeramalla](https://www.youtube.com/@AbhisekVeeramalla) for his incredibly helpful [YouTube video](https://youtu.be/IUpsu2xemrA?feature=shared) and the [DevOps playlist](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa). These resources were instrumental in guiding me through the Dockerization process. If you're interested in DevOps and containerization, I highly recommend checking out his content.
+I want to extend a heartfelt thank you to [Abhishek Veeramalla](https://www.linkedin.com/in/abhishek-veeramalla/) for his incredibly helpful [YouTube video](https://youtu.be/IUpsu2xemrA?feature=shared) and the [DevOps playlist](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa). These resources were instrumental in guiding me through the Dockerization process. If you're interested in DevOps and containerization, I highly recommend checking out his content.
 
 ## Conclusion
 
 This project was an excellent opportunity for me to dive deeper into Docker and Docker Compose. I look forward to continuing my journey in DevOps, and I’m excited to apply these skills in future projects.
 
 Feel free to clone the project, experiment with it, and contribute if you have any suggestions or improvements!
-
----
-
-You can customize this draft further if needed. Let me know if there are any other details you'd like to add!
